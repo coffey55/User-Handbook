@@ -1,4 +1,7 @@
 # User-Handbook
+[Getting Started](readme.md#getting-started)
+
+[opening the box](readme.md#opening-the-box)
 
 ## Getting Started
 Make sure you have the fallowing parts:
@@ -12,6 +15,7 @@ Make sure you have the fallowing parts:
 * Don't let kids use knife cutter
 * Don't let kids chew on power cables
 * No box in swimming pool
+
 ## assembly
 
 
